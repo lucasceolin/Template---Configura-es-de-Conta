@@ -6,6 +6,10 @@ Protótipo:
 
 <h2> Projeto de implementação de uma tela de Configurações de Conta. </h2>
 
-<text-align: center> <b>  Em desenvolvimento... </b>
+<b>  Em desenvolvimento... </b>
 
 <h1> <b> Tecnologias Usadas </b> </h1>
+<h2> Visual Studio </h2>
+
+<h1> <b> Autores </b> </h1>
+<h2> Lucas Ceolin </h2>
