@@ -6,7 +6,7 @@ Protótipo:
 
 <h2> Projeto de implementação de uma tela de Configurações de Conta. </h2>
 
-<b>  Em desenvolvimento... </b> 
+<center> <b>  Em desenvolvimento... </b> </center>
 
 <h1> <b> Tecnologias Usadas </b> </h1>
 [Visual Studio ](https://visualstudio.microsoft.com/pt-br/downloads/)
