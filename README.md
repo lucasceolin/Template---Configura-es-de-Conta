@@ -12,4 +12,4 @@ Protótipo:
 <h2> Visual Studio </h2>
 
 <h1> <b> Autores </b> </h1>
-<h2> Lucas Ceolin </h2>
+Lucas Ceolin 
