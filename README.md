@@ -9,7 +9,7 @@ Protótipo:
 <b>  Em desenvolvimento... </b>
 
 <h1> <b> Tecnologias Usadas </b> </h1>
-<h2> Visual Studio </h2>
+Visual Studio 
 
 <h1> <b> Autores </b> </h1>
 Lucas Ceolin 
